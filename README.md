@@ -1,11 +1,26 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Slides LangChain.js
 
-To start the slide show:
+Presentación sobre LangChain.js - Desarrollo de aplicaciones con LLMs.
 
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
+## Ver online
 
-Edit the [slides.md](./slides.md) to see the changes.
+https://jabiinfante.github.io/slides-langchain.js/
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+## Desarrollo local
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Deploy
+
+```bash
+npm run deploy
+```

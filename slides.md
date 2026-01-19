@@ -6,7 +6,8 @@ theme: seriph
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: /cover.png
 # some information about your slides (markdown enabled)
-title: Langchain.js
+title: LangChain.js - De cero a producción
+favicon: https://js.langchain.com/v0.2/img/favicon.ico
 info: |
   ## Langchain.js: De cero a producción
 

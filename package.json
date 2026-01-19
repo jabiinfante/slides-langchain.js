@@ -6,7 +6,8 @@
     "build": "slidev build",
     "dev": "slidev --open --remote",
     "export": "slidev export",
-    "preview": "slidev preview"
+    "preview": "slidev preview",
+    "deploy": "git push github main"
   },
   "dependencies": {
     "@slidev/cli": "^52.9.1",
