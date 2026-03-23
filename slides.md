@@ -7,7 +7,7 @@ theme: seriph
 background: /cover.png
 # some information about your slides (markdown enabled)
 title: LangChain.js - De cero a producción
-favicon: https://js.langchain.com/v0.2/img/favicon.ico
+favicon: https://docs.langchain.com/favicon.ico
 info: |
   ## Langchain.js: De cero a producción
 
@@ -45,7 +45,7 @@ duration: 45min
 ---
 
 ## Agentes y RAG para desarrolladores web
-### Bizkaia Enpresa Digitala · Enero 2026
+### Bizkaia Enpresa Digitala · Marzo 2026
 
 <div class="abs-b mb-10 flex justify-center">
   <img src="/Logos RIA_cas.png" class="h-16" alt="Logos RIA" />

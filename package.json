@@ -6,16 +6,16 @@
     "build": "slidev build",
     "dev": "slidev --open --remote",
     "export": "slidev export",
-    "preview": "slidev preview",
+    "preview": "slidev slides.md",
     "deploy": "git push github main"
   },
   "dependencies": {
-    "@slidev/cli": "^52.9.1",
+    "@slidev/cli": "^52.14.1",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
-    "vue": "^3.5.24"
+    "vue": "^3.5.30"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.57.0"
+    "playwright-chromium": "^1.58.2"
   }
 }
