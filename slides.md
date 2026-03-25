@@ -25,6 +25,8 @@ info: |
   - **RAG (Retrieval Augmented Generation)**
     - Embeddings y proveedores
     - Bases de datos vectoriales (Qdrant, Pinecone, etc.)
+    - Document Loaders y Splitters (PDF, Web, Markdown)
+    - Extractores avanzados (Unstructured, Docling, etc.)
     - Ejemplo práctico con PDFs
   - Temas avanzados y pendientes
   - Alternativas al ecosistema LangChain
@@ -341,6 +343,21 @@ hide: false
 ---
 
 ---
+src: ./pages/messages/02b.md
+hide: false
+---
+
+---
+src: ./pages/messages/02c.md
+hide: false
+---
+
+---
+src: ./pages/messages/02d.md
+hide: false
+---
+
+---
 src: ./pages/messages/03.md
 hide: false
 ---
@@ -352,7 +369,7 @@ hide: false
 
 ---
 src: ./pages/messages/05.md
-hide: false
+hide: true
 ---
 
 ---
@@ -377,12 +394,12 @@ hide: false
 
 ---
 src: ./pages/messages/10.md
-hide: false
+hide: true
 ---
 
 ---
 src: ./pages/messages/11.md
-hide: false
+hide: true
 ---
 
 
@@ -629,6 +646,61 @@ hide: false
 ---
 
 ---
+src: ./pages/rag/16b.md
+hide: false
+---
+
+---
+src: ./pages/rag/16c.md
+hide: false
+---
+
+---
+src: ./pages/rag/16d.md
+hide: false
+---
+
+---
+src: ./pages/rag/16e.md
+hide: false
+---
+
+---
+src: ./pages/rag/16f.md
+hide: false
+---
+
+---
+src: ./pages/rag/16f2.md
+hide: false
+---
+
+---
+src: ./pages/rag/16g.md
+hide: false
+---
+
+---
+src: ./pages/rag/16h.md
+hide: false
+---
+
+---
+src: ./pages/rag/16h2.md
+hide: false
+---
+
+---
+src: ./pages/rag/16i.md
+hide: false
+---
+
+---
+src: ./pages/rag/16j.md
+hide: false
+---
+
+---
 src: ./pages/rag/17.md
 hide: false
 ---
@@ -655,16 +727,36 @@ hide: false
 
 ---
 src: ./pages/rag/22.md
-hide: false
+hide: true
 ---
 
 ---
 src: ./pages/rag/23.md
-hide: false
+hide: true
 ---
 
 ---
 src: ./pages/rag/24.md
+hide: true
+---
+
+---
+src: ./pages/rag/24b.md
+hide: false
+---
+
+---
+src: ./pages/rag/24c.md
+hide: false
+---
+
+---
+src: ./pages/rag/24d.md
+hide: false
+---
+
+---
+src: ./pages/rag/24e.md
 hide: false
 ---
 
@@ -675,7 +767,7 @@ hide: false
 
 ---
 src: ./pages/rag/27.md
-hide: false
+hide: true
 ---
 
 ---
